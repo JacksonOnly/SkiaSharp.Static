@@ -6,7 +6,7 @@ on:
       - ".github/actions/**"
       - "args.gn"
 env:
-  SkiaSharpVersion: 2.88.9
+  SkiaSharpVersion: 1.68.3
 jobs:
   build:
     runs-on: windows-2025
