@@ -1,4 +1,4 @@
-name: build-skia-2.88.9
+name: build-skia-2.88.9-x86
 on:
   push:
     paths:

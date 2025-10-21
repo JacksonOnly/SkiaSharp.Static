@@ -1,4 +1,4 @@
-name: build-skia-3
+name: build-skia-3-x86
 on:
   push:
     paths:
