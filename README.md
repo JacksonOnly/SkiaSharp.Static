@@ -1,6 +1,6 @@
 # SkiaSharp.Static
 
-Static library of Skia Sharp for Avalonia UI
+Static library of Skia Sharp for Avalonia UI X86
 
 For **Skia 3**, you must use with **Avalonia 12**.
 
